@@ -21,8 +21,11 @@
         "audios"
       ]
     },
-    "title": {
+    "Title2": {
       "type": "string"
+    },
+    "email": {
+      "type": "email"
     }
   }
 }
